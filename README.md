@@ -8,4 +8,5 @@ This is a script that will install portmaster on Trimui 1.1.0.
 I noticed after the update portmaster and the orginal installers weren't working so I updated the scripts to work. Test out and let me know your thoughts. 
 
 Move the portmasterinstall folder into the /Apps folder on your SDCARD. 
+Once it is done installing your system will reboot automatically. 
 
